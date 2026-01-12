@@ -6,14 +6,14 @@ Each assignment is organized in a separate folder for clarity and ease of access
 #Folder Structure
 
 Assignments
-├── Assignment_1
-├── Assignment_2
-├── Assignment_3
-├── Assignment_4
-├── Assignment_5
-├── Assignment_6
-├── Assignment_n......
-└──Projects
+Assignment_1
+Assignment_2
+Assignment_3
+Assignment_4
+Assignment_5
+Assignment_6
+Assignment_n......
+Projects
 
 Assignment_n – Contains Java programs, PDFs, and other resources related to that assignment.
 Projects – Contains additional mini-projects or practice programs.
